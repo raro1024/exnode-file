@@ -1,0 +1,19 @@
+{
+  "name": "exnode-file",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raro1024/exnode-file.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raro1024/exnode-file/issues"
+  },
+  "homepage": "https://github.com/raro1024/exnode-file#readme"
+}
